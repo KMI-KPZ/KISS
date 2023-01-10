@@ -40,9 +40,7 @@ Dr. Christian Zinke-Wehlmann
 [E-Mail](mailto:zinke@infai.org)
 
 ## Impressum und Datenschutzerklärung
-[Impressum](https://infai.org/das-institut/impressum/)
-
-[Datenschutz](https://infai.org/datenschutz/)
+[Impressum](https://infai.org/das-institut/impressum/)   |  [Datenschutz](https://infai.org/datenschutz/)
 
 
 
