@@ -41,6 +41,7 @@ Dr. Christian Zinke-Wehlmann
 
 ## Impressum und Datenschutzerklärung
 [Impressum](https://infai.org/das-institut/impressum/)
+
 [Datenschutz](https://infai.org/datenschutz/)
 
 
