@@ -39,6 +39,16 @@ Institut für Angewandte Informatik e.V. (InfAI)
 Dr. Christian Zinke-Wehlmann
 [E-Mail](mailto:zinke@infai.org)
 
+## Förderung
+
+Laufzeit: 06/2022 – 05/2025
+
+Förderprogramm: Gestaltung der SEMPER-KI Plattform – von der Prozesskette über die Wertschöpfung zur KI-basierten Plattform
+
+Förderkennzeichen: 01MK22001A
+
+<img src="https://user-images.githubusercontent.com/2630603/214318465-4a6ac587-8767-4017-be61-403d02ca2de1.png" alt="drawing" width="15%"/>
+
 ## Impressum und Datenschutzerklärung
 [Impressum](https://infai.org/das-institut/impressum/)   |  [Datenschutz](https://infai.org/datenschutz/)
 
